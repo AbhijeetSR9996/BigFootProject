@@ -1,0 +1,8 @@
+"id","product_name","make","model","category_id","price","labour_charges","stock_in_hand","location","status","product_image","created_at","updated_at","category_name"
+1,"Fuel Pump-ddd-wwe","ddd","wwe",1,12444,200,122,"B1-23-463",0,"https://bigfootlogistics.s3.ap-southeast-1.amazonaws.com/product-images/IdcQijtVngXvxnt-Fy_go.jpg","2021-09-27T01:02:41.000Z","2021-10-26T13:56:32.000Z","Fuel Pump"
+3,"Fuel Pump-ee-eee","ee","eee",1,480,300,0,"ww",0,"https://bigfootlogistics.s3.ap-southeast-1.amazonaws.com/product-images/fyz1NSAzaRGEe1i2Lv_zR.jpg","2021-09-30T17:00:53.000Z","2021-10-23T12:33:37.000Z","Fuel Pump"
+8,"Battery-bosch-sp-123","bosch","sp-123",6,12,0,0,"b-2a-11",0,"https://bigfootlogistics.s3.ap-southeast-1.amazonaws.com/product-images/GTmOGKSZt6RNjTune2_8s.gif","2021-10-27T12:06:39.000Z","2021-10-27T12:06:39.000Z","Battery"
+9,"Engine Oil-Nissan-Cedric","Nissan","Cedric",7,23,0,0,"Row A3",0,"https://bigfootlogistics.s3.ap-southeast-1.amazonaws.com/product-images/o-BIoaz9PMQIpR7Sth_yE.png","2021-11-07T07:51:19.000Z","2021-11-07T07:51:19.000Z","Engine Oil"
+10,"Engine Oil-Nissan-Cedric","Nissan","Cedric",7,20,0,0,"A3",0,"https://bigfootlogistics.s3.ap-southeast-1.amazonaws.com/product-images/mV4BnQj05Km6qTgabw_-a.png","2021-11-07T07:55:46.000Z","2021-11-07T07:55:46.000Z","Engine Oil"
+11,"Brake Shoe-Mit-Canter","Mit","Canter",14,20,0,0,"A5",0,"https://bigfootlogistics.s3.ap-southeast-1.amazonaws.com/product-images/Or_rni9FGWd0U0raHX_pH.png","2021-11-07T08:04:42.000Z","2021-11-07T08:04:42.000Z","Brake Shoe"
+12,"Disk Break-Honda-18mm","Honda","18mm",16,120,0,2,"Room2,Rack5",0,"https://bigfootlogistics.s3.ap-southeast-1.amazonaws.com/product-images/e0zOqKL3c6U4SE_9Fj_Pr.jpg","2021-11-08T04:50:12.000Z","2021-11-08T04:53:50.000Z","Disk Break"
